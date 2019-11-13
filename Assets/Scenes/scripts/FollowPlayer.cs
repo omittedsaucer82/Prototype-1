@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class FollowPlayer : MonoBehaviour
 {
-    // Start is called before the first frame update
     public GameObject player;
+    // Start is called before the first frame update
     void Start()
     {
         
